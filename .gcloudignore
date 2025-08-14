@@ -1,0 +1,12 @@
+# .gcloudignore
+.gcloudignore
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb
+.venv/
+.env
+.DS_Store
